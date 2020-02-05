@@ -1,0 +1,3 @@
+#wine数据集
+main_KLDA.m: matlab
+shizuo.py: python的pandas实现
